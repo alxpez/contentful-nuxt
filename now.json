@@ -1,0 +1,9 @@
+{
+  "name": "contenuxt",
+  "alias": "contenuxt",
+  "github": {
+    "enabled": true
+  },
+  "public": true,
+  "dotenv": true
+}
