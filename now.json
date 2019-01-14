@@ -1,9 +1,8 @@
 {
+  "version": 1,
   "name": "contenuxt",
   "alias": "contenuxt",
-  "github": {
-    "enabled": true
-  },
+  "type": "docker",
   "public": true,
   "dotenv": true
 }
